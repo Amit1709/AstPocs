@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "appui", "AppUI\appui.esproj", "{3EDA41A9-97DC-46F0-B0ED-5904C7E0C705}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "AuthService\AuthService.csproj", "{86CD6737-0999-4B16-9DCD-9E016BA883A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{3EDA41A9-97DC-46F0-B0ED-5904C7E0C705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EDA41A9-97DC-46F0-B0ED-5904C7E0C705}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3EDA41A9-97DC-46F0-B0ED-5904C7E0C705}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{86CD6737-0999-4B16-9DCD-9E016BA883A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CD6737-0999-4B16-9DCD-9E016BA883A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CD6737-0999-4B16-9DCD-9E016BA883A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CD6737-0999-4B16-9DCD-9E016BA883A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
